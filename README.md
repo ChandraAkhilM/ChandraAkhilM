@@ -15,7 +15,7 @@
 - 👀 Currently looking for full-time positions as a full-stack developer, available to start immediately and authorized to work in the United States.
 - 🤝 Open to work as a Full-Stack Developer, Front-End Developer, Back-End Developer, Entry-Level Software Engineer, Java Developer.
 - 🔭 I completed my Master's degree in Computer Science from Kennesaw State University.
-- 🌱 I have over 2 years of experience as a full-stack developer, specializing in React.js, Node.js, Java Spring Boot, and microservices.
+- 🌱 I have over 1 year of experience as a full-stack developer, specializing in React.js, Node.js, Java Spring Boot, and microservices.
 - 📫 Contact me - chandraakhil009@gmail.com
 
 <div align="center">
